@@ -302,7 +302,7 @@ int main() {
 #endif
 
 // array
-#if 0
+#if 1
 #include <stdio.h>
 
 int main() {
@@ -317,14 +317,8 @@ int main() {
             printf("%d\n", *(arr2 + i));
         }
     }
-/*
-    for (int i = 0; i < 5; i++) {
-        printf("%d ->", arr[i]);
-        printf("%d", &arr[i]);
-    }*/
     return 0;
 }
-
 
 #endif
 
@@ -352,6 +346,7 @@ int main() {
 }
 #endif
 
+// lottery generator
 #if 1
 #include <stdio.h>
 #include <stdlib.h>
@@ -369,10 +364,8 @@ int main() {
                 lotto[i] = rand() % 6 + 1;
                 j = -1;  // Restart the check
             }
-        }
-        
+        }   
     }
-
     printf("Lotto Numbers: ");
     for (int i = 0; i < 6; i++) {
         printf("%d ", lotto[i]);

@@ -1,0 +1,24 @@
+Hello, World!
+This is a test file.
+File I/O in C.
+Hello, World!
+This is a test file.
+File I/O in C.
+Hello, World!
+This is a test file.
+File I/O in C.
+Hello, World!
+This is a test file.
+File I/O in C.
+Hello, World!
+This is a test file.
+File I/O in C.
+Hello, World!
+This is a test file.
+File I/O in C.
+Hello, World!
+This is a test file.
+File I/O in C.
+Hello, World!
+This is a test file.
+File I/O in C.
